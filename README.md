@@ -1,7 +1,7 @@
 # 🐍 Python Challenge #2: Count Words in a Sentence
 
 This repository contains a **reference implementation** for **Python Challenge #2** from  
-👉 **SolveWithPython.com**
+👉 [SolveWithPython](https://solvewithpython.com/)
 
 This challenge focuses on **string parsing**, **whitespace handling**, and **defensive input logic** in Python.
 

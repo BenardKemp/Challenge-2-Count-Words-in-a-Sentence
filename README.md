@@ -22,17 +22,48 @@ Write a Python function that counts the number of words in a given sentence.
 
 ---
 
-## 🧠 Example
+## 🧪 Tests
 
-```python
-count_words("Hello world")
-# Output: 2
+This repository includes pytest tests to verify correctness across edge cases.
 
-count_words("  This   has   extra spaces ")
-# Output: 4
+To run the tests:
 
-count_words("")
-# Output: 0
+pip install pytest
+pytest
 
+All tests should pass if the implementation is correct.
 
+---
 
+## 🗂 Repository Structure
+.
+├── count_words.py        # Reference solution
+├── test_count_words.py   # Pytest test cases
+├── README.md
+
+---
+
+## 📖 Reference Solution
+
+The solution provided here is one possible approach.
+There are multiple valid ways to count words in Python.
+
+➡️ It’s recommended to attempt the challenge yourself first before reviewing the code.
+
+---
+
+## 🚀 Try the Challenge Yourself
+
+You can find the full challenge explanation, hints, and progression here:
+
+👉 [https://solvewithpython.com/challenge-2-count-words-in-a-sentence/](https://solvewithpython.com/beginner/count-words-in-a-sentence/)
+
+Solve it independently, then compare your solution with this reference.
+
+---
+
+## 🧩 Part of the SolveWithPython Challenge Series
+
+This challenge is part of the Beginner Python Challenges on SolveWithPython.com — helping you build strong fundamentals through practical exercises.
+
+Happy coding! 🐍✨
